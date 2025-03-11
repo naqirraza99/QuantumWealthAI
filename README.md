@@ -81,10 +81,12 @@ Check the **`Screenshots/` folder** and **`Demo.mp4`** for a live walkthrough.
 
 This project was built with equal contribution by:
 
-- **Sermad Mehdi** – Data Scientist & Azure DevOps Engineer  
-- **Syed Muhammad Naqi** – Co-developer, Cyber Security Engineer  
-- **Muhammad Mehdi Raza** – Co-developer, Software Engineer 
-- **Rehmat Ali** – Co-developer, Computer Engineer
+## Contributors
+
+- [Sermad Mehdi](https://github.com/SermadMehdi)
+- [Muhammad Mehdi Raza](https://github.com/MuhammadMehdiRaza)
+- [Rehmat Ali](https://github.com/RehmatAli2023609)
+
 
 > ⚖️ All contributors listed above contributed equally to this project.
 
